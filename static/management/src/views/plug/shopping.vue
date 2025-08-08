@@ -3,7 +3,7 @@
         <MainHeader/>
         <div class="main-content">
             <div class="left-block">
-                <div class="title">欢迎订购芝麻会话存档插件功能</div>
+                <div class="title">欢迎订购百分之一CRM管理系统插件功能</div>
                 <div class="plugin-box">
                     <template v-for="item in modules">
                         <div
@@ -54,7 +54,7 @@
                     <a-button type="primary" class="pay-btn">立即支付</a-button>
                     <div class="zm-flex-baseline mt16">
                         <a-checkbox/>
-                        <span class="ml8">我已阅读并同意芝麻会话存档<a>《付费用户服务协议》</a></span>
+                        <span class="ml8">我已阅读并同意百分之一CRM管理系统<a>《付费用户服务协议》</a></span>
                     </div>
                 </template>
                 <div v-else class="text-center">

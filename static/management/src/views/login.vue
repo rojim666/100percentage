@@ -5,7 +5,7 @@
             <div class="left-box">
                 <img src="@/assets/login-cover.svg" class="cover"/>
                 <div class="web-logo-title-box">
-                    <div class="web-logo-title">{{ company.login_page_title || '芝麻会话存档' }}</div>
+                    <div class="web-logo-title">{{ company.login_page_title || '百分之一CRM管理系统' }}</div>
                     <div class="web-logo-info">{{ company.login_page_description || '助力企业客户沟通合规管控和质量提升' }}</div>
                 </div>
             </div>
